@@ -159,7 +159,7 @@ flowchart TD
 
 ## 📸 Приклад зображення
 
-![Приклад роботи StudentApp]([<img width="561" height="244" alt="23" src="https://github.com/user-attachments/assets/539f138b-e565-4767-8817-c7199c3a495e" />](https://chatgpt.com/backend-api/estuary/content?id=file_00000000a5488210bcfc1f6aa847da9f&ts=497488&p=fs&cid=1&sig=b2e66bad21c49841d541741565c1e59f63f956797022408de7161d98be5a890c&v=0)
+[<img width="561" height="244" alt="23" src="https://github.com/user-attachments/assets/539f138b-e565-4767-8817-c7199c3a495e" />](https://chatgpt.com/backend-api/estuary/content?id=file_00000000a5488210bcfc1f6aa847da9f&ts=497488&p=fs&cid=1&sig=b2e66bad21c49841d541741565c1e59f63f956797022408de7161d98be5a890c&v=0)
 )
 
 
