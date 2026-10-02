@@ -159,17 +159,9 @@ flowchart TD
 
 ## 📸 Приклад зображення
 
-![Приклад роботи StudentApp](https://placehold.co/800x400/png?text=StudentApp+Screenshot)
+![Приклад роботи StudentApp]\([https://placehold.co/800x400/png?text=StudentApp+Screenshot](https://placehold.co/800x400/png?text=StudentApp+Screenshot))
 
-> Тут можна замінити це зображення на власний скриншот роботи програми.
 
-Для власного зображення можна створити папку `assets` у репозиторії та додати туди, наприклад, файл `screenshot.png`.
-
-Тоді посилання буде:
-
-```markdown
-![Приклад роботи StudentApp](assets/screenshot.png)
-```
 
 ---
 
