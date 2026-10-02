@@ -159,7 +159,8 @@ flowchart TD
 
 ## 📸 Приклад зображення
 
-![Приклад роботи StudentApp](https://raw.githubusercontent.com/annasacuk27-cmd/StudentApp/main/assets/screenshot.png)
+![Приклад роботи StudentApp](<img width="561" height="244" alt="23" src="https://github.com/user-attachments/assets/539f138b-e565-4767-8817-c7199c3a495e" />
+)
 
 
 
