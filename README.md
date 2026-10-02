@@ -159,7 +159,7 @@ flowchart TD
 
 ## 📸 Приклад зображення
 
-![Приклад роботи StudentApp]\([https://placehold.co/800x400/png?text=StudentApp+Screenshot](https://placehold.co/800x400/png?text=StudentApp+Screenshot))
+![Приклад роботи StudentApp](https://raw.githubusercontent.com/annasacuk27-cmd/StudentApp/main/assets/screenshot.png)
 
 
 
